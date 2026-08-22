@@ -1,1 +1,0 @@
-{"uuid":"b998d940-0228-4e5e-9662-fd17b6b7deef","name":"tests.OrangeHrmTest.OpenPage","children":["aa0c332c-9fef-484c-ad28-05fcc26c753c"],"description":"","befores":[{"name":"OpenPage","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1787411801837,"stop":1787411810233}],"afters":[],"start":1787411801835,"stop":1787411810234}
